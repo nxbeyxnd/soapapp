@@ -1,9 +1,10 @@
 # Soap spring App by Alexey Sherkhonov.
 
+WSLD xml link : http://localhost:8190/ws/user.wsdl
+
 ## Stack:
 - Spring Boot
 - Spring Data
-- Spring Security
 - wsdl4j
 - Flyway
 - PostgreSQL
